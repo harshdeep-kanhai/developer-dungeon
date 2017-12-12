@@ -3,7 +3,7 @@ A place where awesome loot and rewards await for developers
 
 
 ![](https://www.ruby-lang.org/images/header-ruby-logo.png)Ruby Mine
------- ----
+------
 #### web frameworks
 * **[rails](http://rubyonrails.org/)**
 
